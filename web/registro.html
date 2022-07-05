@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suculentas y Crasas</title>
+    <link rel="icon" href="./img/sucu.ico">
+    
+    <!-- link para usar fontawesome -->
+    <script src="https://kit.fontawesome.com/96d6ed7006.js" crossorigin="anonymous"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Macondo&family=Nunito+Sans&display=swap" rel="stylesheet"> 
+
+    <link rel="stylesheet" href="./css/main.css">
+
+
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <form  name="register-form" 
+               action="./show_data.html" 
+               target="_blank"
+               onsubmit ="return validatePass()"
+               >
+
+            <label class="label" for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre" placeholder="Nombre" required>
+            <br> <br>
+            <label class="label" for="apellido">Apellido</label>
+            <input type="text" name="apellido" id="apellido" placeholder="Apellido" required>
+            <br> <br>
+            <label class="label" for="email">e-mail</label>
+            <input type="email" name="email" id="email" required placeholder="e-mail" required>
+           
+            <br> <br>
+            <label class="label" for="password">Password</label>
+            <input type="password" name="password" id="password" value="">
+            <span id = "message" style="color:red"> </span>
+            <br> <br>
+            <input type="submit" value="Enviar">
+            <input type="reset">
+        </form>
+    </main>
+    <footer id="footer"></footer>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,181 @@
+:root {
+    /* CSS HEX */
+    --nyanza: #d8f3dcff;
+    --turquoise-green: #b7e4c7ff;
+    --turquoise-green-2: #95d5b2ff;
+    --ocean-green: #74c69dff;
+    --mint: #52b788ff;
+    --illuminating-emerald: #40916cff;
+    --bottle-green: #2d6a4fff;
+    --msu-green: #1b4332ff;
+    --dark-jungle-green: #081c15ff;
+
+}
+   
+/* -----------------------
+   UNIVERSAL SELECTOR
+-------------------------*/
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+/* -----------------------
+        BODY
+-------------------------*/
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+}
+
+
+/* -----------------------
+        MAIN
+-------------------------*/
+
+main {
+    padding-top: 100px;
+}
+
+/* -----------------------
+        HEADER 
+-------------------------*/
+#header{
+    text-align:center ;
+    background-color:var(--nyanza) ;
+    overflow: auto;
+    white-space: nowrap;
+    position: fixed;
+    width: 100%;
+}
+
+#header h1{
+    font-family: 'Macondo', cursive;
+}
+
+#header nav{
+    background-color:var(--turquoise-green-2);
+    
+} 
+
+.header-nav-item{
+    display: inline-block;
+    color:black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.header-nav-item:hover{
+    background-color:var(--mint);
+    color:white;
+}
+
+
+
+/* -----------------------
+        FOOTER
+-------------------------*/
+
+#footer{
+    text-align:center ;
+    background-color:var(--nyanza) ;
+}
+
+
+
+
+
+.container{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-item{
+    width: 100%;
+    padding-right: 10%;
+}
+
+
+.main-item h3 {
+    text-align: center;
+}
+
+.main-item img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* -----------------------
+        ESPECIE
+-------------------------*/
+
+.especie{
+    display: inline-block;
+    justify-content: center;
+}
+
+.especie-titulo{
+    text-align: center;
+}
+
+
+.especie-img{
+    width: 50%;
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+​   
+/*--------------------------
+        FORMULARIO
+--------------------------*/
+.label {
+    display: inline-block;
+    width: 140p;
+    text-align: right;
+}
+
+
+
+
+/* -----------------------
+        RESPONSIVE
+-------------------------*/
+
+/* dispositivos celulares */
+@media only screen and (max-width:600px){
+    .especie,.sucursal{
+        width: 100%;
+    }
+}
+
+/* dispositivos tablet*/
+@media only screen and (min-width:600px){
+    .especie,.sucursal{
+        width: 50%;
+    }
+}
+
+/* dispositivos tablet horizontal */
+@media only screen and (min-width:768px){
+    .especie,.sucursal{
+        width: 75%;
+    }
+}
+
+/* dispositivos laptop y desktop */
+@media only screen and (min-width:992px){
+    .especie,.sucursal{
+        width: 25%;
+    }
+}

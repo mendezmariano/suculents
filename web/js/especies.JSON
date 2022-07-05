@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Abalone",
+        "imagen": "./img/especies/Echeveria-Abalone.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Agavoides",
+        "imagen": "./img/especies/Echeveria-agavoides-Mat-Lichtenstein.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Atlantis",
+        "imagen": "./img/especies/Echeveria-Atlantis-ZL.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Affinis",
+        "imagen": "./img/especies/Echeveria-affinis-alloe..webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Agavoides Red Tips",
+        "imagen": "./img/especies/Echeveria-agavoides-Red-Tips-Leo-Gonzalez.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Baron Bold",
+        "imagen": "./img/especies/Echeveria-Baron-Bold-flickr.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Alba Beauty",
+        "imagen": "./img/especies/Echeveria-Alba-Beauty.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Californica queen",
+        "imagen": "./img/especies/echeveria-californica-queen.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Afterglow",
+        "imagen": "./img/especies/Echeveria-Afterglow-Scott.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Albicans",
+        "imagen": "./img/especies/echeveria-albicans.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Calycosa",
+        "imagen": "./img/especies/Echeveria-calycosa-Zusung.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "agavoides Lipstick",
+        "imagen": "./img/especies/Echeveria-agavoides-Lipstick-Esin-Iscan.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    },
+    {
+        "nombre": "Amoena",
+        "imagen": "./img/especies/Echeveria-amoena-Liz21UK.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit placeat omnis rem illum sint sit fugiat reiciendis cupiditate ut eligendi molestias a dolorum inventore ab laboriosam non sunt magnam quaerat. Ipsam quae velit expedita cumque maiores aperiam ea nihil autem cupiditate aspernatur laboriosam quasi dolor a corrupti unde quaerat in asperiores molestias provident ad debitis deserunt? Nesciunt asperiores dolor ea?"
+    }
+]
